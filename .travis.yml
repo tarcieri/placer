@@ -1,0 +1,12 @@
+language: rust
+sudo: false
+
+branches:
+  only:
+    - master
+
+rust:
+  - stable
+
+matrix:
+  fast_finish: true

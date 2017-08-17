@@ -1,0 +1,9 @@
+[package]
+name        = "placer"
+description = "A security-oriented event-driven file placement system"
+version     = "0.1.0"
+authors     = ["Tony Arcieri <bascule@gmail.com>"]
+license     = "MIT/Apache-2.0"
+repository  = "https://github.com/tarcieri/placer"
+
+[dependencies]
